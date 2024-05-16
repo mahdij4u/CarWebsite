@@ -4,7 +4,7 @@
     font-family: "Poppins", sans-serif;
     margin: 0;
     padding: 0;
-    scroll-padding-top: 1rem;   
+    scroll-padding-top: 1rem;
     scroll-behavior: smooth;
     list-style: none;
     text-decoration: none;
@@ -147,14 +147,17 @@ header.shadow #search-icon {
     min-height: 640px;
     display: flex;
     align-items: center;
-    background: url(img/HondaCivic1.webp);
+    background: url(img/Franciko.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center left;
 }
 
 .home-text {
-    padding-left: 130px;
+    padding-bottom: 500px;
+    padding-left: 110px;
+    text-align: center;
+    color: white;
 }
 
 .home-text h1 {
